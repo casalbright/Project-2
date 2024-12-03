@@ -6,7 +6,7 @@ JT Warren - https://github.com/JTwarren88/MIST4610gp2
 
 Charlie Mixson - https://github.com/cjm75885/Project-2	
 
-Cassandra Albright -
+Cassandra Albright - https://github.com/casalbright/Project-2
 
 Divya Mathew -
 
